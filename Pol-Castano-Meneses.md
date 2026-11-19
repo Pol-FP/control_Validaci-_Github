@@ -1,4 +1,4 @@
-1. Bruno
-2. Biel
-3. Isaac
-4. Anthony
+1. Bruno, edat 18
+2. Biel, edat 18
+3. Isaac, edat 18
+4. Anthony, edat 18
